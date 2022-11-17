@@ -1,4 +1,4 @@
-<h1 align="center">Hai Semua ! Daffa</h1>
+<h1 align="center">Hai Semua ! Kenalin saya Daffa</h1>
 <h3 align="center">Fullstack Wev Developer in Indonesia</h3>
 
 - 🌱 I’m currently learning **Express JS**
