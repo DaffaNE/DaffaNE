@@ -4,7 +4,7 @@
 <img src="https://cdn.discordapp.com/attachments/888280935865409576/1042861109910188042/pc.png" alt="banner">
 💬 Focusing at <b>React, CodeIgniter, and Laravel</b>
 
--📫 Reach me Via **daffanurhatae551@gmail.com**
+📫 Reach me Via **daffanurhatae551@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
