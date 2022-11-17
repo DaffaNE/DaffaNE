@@ -1,7 +1,7 @@
 <h1 align="center">Hai Semua ! Kenalin saya Daffa</h1>
-<h3 align="center">Fullstack Wev Developer in Indonesia</h3>
+<h3 align="center">Fullstack Web Developer in Indonesia</h3>
 
-💬 Ask me about **react, CodeIgniter, and Laravel**
+💬 Focusing at **React, CodeIgniter, and Laravel**
 
 📫 Reach me Via : **daffanurhatae551@gmail.com**
 
