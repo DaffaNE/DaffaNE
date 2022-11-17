@@ -1,11 +1,9 @@
 <h1 align="center">Hai Semua ! Kenalin saya Daffa</h1>
 <h3 align="center">Fullstack Wev Developer in Indonesia</h3>
 
-- 🌱 I’m currently learning **Express JS**
+💬 Ask me about **react, CodeIgniter, and Laravel**
 
-- 💬 Ask me about **react, CodeIgniter, and Laravel**
-
-- 📫 How to reach me **daffanurhatae551@gmail.com**
+📫 Reach me Via : **daffanurhatae551@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
