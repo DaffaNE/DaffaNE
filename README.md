@@ -1,11 +1,11 @@
 <h1 align="center">Hi Everyone!</h1>
 <h3 align="center">Tech | Ai | Gaming Ethusiast</h3>
 
-💬 <b>Welcome to My Github Profile</b>
+🎓 <b>Information Systems Graduate from Universitas Pembangunan Jaya in 2024</b>
 
 📫 Reach me Via **daffanurhatae551@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Other Social Media:</h3>
 <p align="left">
 <a href="https://twitter.com/daffane551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daffane551" height="30" width="40" /></a>
 <a href="https://instagram.com/daffa_erlangga551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daffa_erlangga551" height="30" width="40" /></a>
