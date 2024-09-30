@@ -1,8 +1,7 @@
 <h1 align="center">Hai Semua ! Kenalin saya Daffa</h1>
 <h3 align="center">Fullstack Web Developer in Indonesia</h3>
 
-<img src="https://cdn.discordapp.com/attachments/888280935865409576/1042861109910188042/pc.png" alt="banner">
-💬 Focusing at <b>React, CodeIgniter, and Laravel</b>
+💬 Software Engineer, UI/UX Designer, Video Editor, and Photography</b>
 
 📫 Reach me Via **daffanurhatae551@gmail.com**
 
