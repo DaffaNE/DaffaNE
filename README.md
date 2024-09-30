@@ -1,5 +1,5 @@
-<h1 align="center">Hai Semua ! Kenalin saya Daffa</h1>
-<h3 align="center">Fullstack Web Developer in Indonesia</h3>
+<h1 align="center"Hi Everyone!</h1>
+<h3 align="center">Tech | Ai | Gaming Ethusiast</h3>
 
 💬 Software Engineer, UI/UX Designer, Video Editor, and Photography</b>
 
