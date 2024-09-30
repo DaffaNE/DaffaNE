@@ -1,4 +1,4 @@
-<h1 align="center"Hi Everyone!</h1>
+<h1 align="center">Hi Everyone!</h1>
 <h3 align="center">Tech | Ai | Gaming Ethusiast</h3>
 
 💬 Software Engineer, UI/UX Designer, Video Editor, and Photography</b>
