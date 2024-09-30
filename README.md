@@ -1,7 +1,7 @@
 <h1 align="center">Hi Everyone!</h1>
 <h3 align="center">Tech | Ai | Gaming Ethusiast</h3>
 
-💬 Software Engineer, UI/UX Designer, Video Editor, and Photography</b>
+💬 <b>Welcome to My Github Profile</b>
 
 📫 Reach me Via **daffanurhatae551@gmail.com**
 
