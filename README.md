@@ -7,25 +7,11 @@
 📍 Universitas Pembangunan Jaya, Class of 2024
 
 💬 I work as a Software Quality Assurance Engineer at GoTo Financial, where I ensure product reliability and performance through robust testing strategies.
+
 🧪 Specializing in API test automation, I focus on building efficient, scalable, and maintainable test suites that support continuous delivery and high-quality releases.
 
 📫 **Reach me at:**  
 **✉️ daffanurhatae551@gmail.com**
-
----
-
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/daffane551" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/daffa_erlangga551" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.youtube.com/@MyonCH" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
-  </a>
-</p>
 
 ---
 
