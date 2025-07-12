@@ -1,10 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Daffa</h1>
 <h3 align="center">🚀 Tech Explorer | 🤖 AI Enthusiast | 🎮 Gamer at Heart</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Code.+Design.+Create.+Repeat.;Always+learning+something+new!" alt="Typing SVG" />
-</p>
-
 ---
 
 🎓 **Recent Graduate in Information Systems**  
@@ -65,15 +61,4 @@
   <!-- Others -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-</p>
-
----
-
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
